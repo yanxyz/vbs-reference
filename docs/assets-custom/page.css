@@ -1,0 +1,31 @@
+body {
+  font-size: 1em;
+  max-width: 800px;
+  margin: auto;
+}
+
+#header {
+  margin: 1em auto;
+}
+
+#header a {
+  color: #0072c6;
+  margin-right: 10px;
+}
+
+#header a:hover,
+#header a:focus  {
+  color: #00709f;
+}
+
+div#content {
+  width: auto;
+}
+
+.LW_CollapsibleArea_Anchor_Img {
+  display: none;
+}
+
+a[href="#mainSection"] {
+  display: none;
+}

@@ -1,0 +1,7 @@
+/docs/assets/
+/docs/msdn/
+/docs/technet/
+
+node_modules
+package-lock.json
+yarn.lock

@@ -1,0 +1,16 @@
+{
+  "name": "vbs-reference",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Ivan Yan",
+  "license": "MIT",
+  "private": true,
+  "repository": "yanxyz/vbs-reference",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "got": "^7.1.0",
+    "make-dir": "^1.0.0",
+    "p-map": "^1.2.0",
+    "yargs-parser": "^8.0.0"
+  }
+}
